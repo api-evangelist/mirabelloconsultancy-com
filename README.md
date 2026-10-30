@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mirabelloconsultancy-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mirabelloconsultancy.com/
+Mirabello Consultancy is a Swiss‑based firm offering global investment migration services, including citizenship and residency by investment, citizenship by marriage and descent, passport renewal, and government advisory. Operating from Zurich, Dubai and Hong Kong, it serves high‑net‑worth clients seeking second citizenships, golden visas, and related advisory, with multilingual support and ACAMS‑certified leadership.
+
+**Areas:** Company · Investment Migration · Citizenship by Investment · Residency · Advisory
+
+## mirabelloconsultancy-com on APIs.io
+
+Everything profiled for mirabelloconsultancy-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mirabelloconsultancy-com/](https://apis.io/providers/mirabelloconsultancy-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [mirabelloconsultancy-com Book API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-book-api/) — The Book API from mirabelloconsultancy-com — 1 operation(s) for book.
+- [mirabelloconsultancy-com Briefing API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-briefing-api/) — The Briefing API from mirabelloconsultancy-com — 1 operation(s) for briefing.
+- [mirabelloconsultancy-com Compare API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-compare-api/) — The Compare API from mirabelloconsultancy-com — 1 operation(s) for compare.
+- [mirabelloconsultancy-com Countries API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-countries-api/) — The Countries API from mirabelloconsultancy-com — 1 operation(s) for countries.
+- [mirabelloconsultancy-com Country API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-country-api/) — The Country API from mirabelloconsultancy-com — 1 operation(s) for country.
+- [mirabelloconsultancy-com Index API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-index-api/) — The Index API from mirabelloconsultancy-com — 1 operation(s) for index.
+- [mirabelloconsultancy-com Malta API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-malta-api/) — The Malta API from mirabelloconsultancy-com — 2 operation(s) for malta.
+- [mirabelloconsultancy-com Passport Renewal API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-passport-renewal-api/) — The Passport Renewal API from mirabelloconsultancy-com — 1 operation(s) for passport renewal.
+- [mirabelloconsultancy-com Pathways API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-pathways-api/) — The Pathways API from mirabelloconsultancy-com — 1 operation(s) for pathways.
+- [mirabelloconsultancy-com Plan Path API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-plan-path-api/) — The Plan Path API from mirabelloconsultancy-com — 1 operation(s) for plan path.
+- [mirabelloconsultancy-com Processing Times API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-processing-times-api/) — The Processing Times API from mirabelloconsultancy-com — 1 operation(s) for processing times.
+- [mirabelloconsultancy-com Programmes API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-programmes-api/) — The Programmes API from mirabelloconsultancy-com — 4 operation(s) for programmes.
+- [mirabelloconsultancy-com Recommend API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-recommend-api/) — The Recommend API from mirabelloconsultancy-com — 1 operation(s) for recommend.
+- [mirabelloconsultancy-com Services API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-services-api/) — The Services API from mirabelloconsultancy-com — 2 operation(s) for services.
+- [mirabelloconsultancy-com Status API](https://apis.io/apis/mirabelloconsultancy-com/mirabelloconsultancy-com-status-api/) — The Status API from mirabelloconsultancy-com — 1 operation(s) for status.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Mirabelloconsultancy Com Agentic Access](https://apis.io/agentic-access/mirabelloconsultancy-com/mirabelloconsultancy-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mirabelloconsultancy Com Context](https://apis.io/jsonld/mirabelloconsultancy-com/mirabelloconsultancy-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [mirabelloconsultancy-com API Rules](https://apis.io/rules/mirabelloconsultancy-com/mirabelloconsultancy-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mirabelloconsultancy Com Domain Security](https://apis.io/security/mirabelloconsultancy-com/mirabelloconsultancy-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mirabelloconsultancy.com/)
+- [Support](https://www.mirabelloconsultancy.com/contact-us-for-your-free-consultation)
+- [Blog](https://www.mirabelloconsultancy.com/blog)
+- [Terms of service](https://www.mirabelloconsultancy.com/terms-and-conditions)
+- [Privacy policy](https://www.mirabelloconsultancy.com/privacy-policy-2)
+
+## API Evangelist rating
+
+**Kin Score 34.3** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 43.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 13.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 41.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mirabelloconsultancy-com/](https://apis.io/providers/mirabelloconsultancy-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for mirabelloconsultancy-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mirabelloconsultancy-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
